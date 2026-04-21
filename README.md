@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @dimplemenda67
-- 👀 I’m interested in coding, coding and coding
-- 🌱 I’m currently exploring new technologies
+## 👋 Hi, I'm Dimple
 
-<!---
-dimplemenda67/dimplemenda67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Frontend Developer | Angular Expert  
+
+- Building scalable UI systems  
+- Performance-focused applications  
+- Aspiring UI Architect  
